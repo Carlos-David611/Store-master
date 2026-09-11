@@ -105,10 +105,7 @@ la-biglietteria/
 
 This project is distributed under the MIT license. See the `LICENSE` file for more details.
 
-## Contact
 
-For questions or support, contact us at:
-- Email: gabriele.infojob@gmail.com
 
 
 ---
